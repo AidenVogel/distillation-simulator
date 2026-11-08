@@ -13,6 +13,7 @@ Work in progress. Just getting started.
 - [ ] Plot the ethanol-water equilibrium curve
 - [ ] Add operating lines
 - [ ] Step off stages and count them
+- [ ] Add an interactive reflux ratio slider
 - [ ] Write up results amd what i learned
 
 ##About me
