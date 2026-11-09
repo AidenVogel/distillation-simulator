@@ -16,6 +16,10 @@ Work in progress. Just getting started.
 - [ ] Add an interactive reflux ratio slider
 - [ ] Write up results amd what i learned
 
+## Data:
+
+Equilibrium data: Susial Badajoz, P.; Garcia Montesdeoca, I.; Santiago, D. E. “A Novel Equipment for VLE Studies: Ethanol and Water System at Moderate Pressures and Data Verification with a Direct Point-to-Point Test.” ACS Omega 2026, 11(32), 48295–48312. doi:10.1021/acsomega.6c04827. Table 5, ethanol (1) + water (2) at 101 kPa.
+
 ##About me
 First year student heading into chemical engineering at the University of Calgary.
 
