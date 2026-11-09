@@ -10,7 +10,7 @@ a desired ethanol purity, and how the reflux ratio changes that answer.
 Work in progress. Just getting started.
 
 ## Plan
-- [ ] Plot the ethanol-water equilibrium curve
+- [x] Plot the ethanol-water equilibrium curve
 - [ ] Add operating lines
 - [ ] Step off stages and count them
 - [ ] Add an interactive reflux ratio slider
