@@ -14,7 +14,7 @@ Work in progress. Just getting started.
 - [x] Add operating lines
 - [ ] Step off stages and count them
 - [ ] Add an interactive reflux ratio slider
-- [ ] Write up results amd what i learned
+- [ ] Write up results and what i learned
 
 ## Data:
 
@@ -24,6 +24,6 @@ Equilibrium data: Susial Badajoz, P.; Garcia Montesdeoca, I.; Santiago, D. E. â€
 
 We are assuming the feed is a saturated liquid; i.e. it is at its boiling point.
 
-##About me
+## About me
 First year student heading into chemical engineering at the University of Calgary.
 
